@@ -1,0 +1,14 @@
+chicken		5.0
+beef		8.0
+prok		5.5
+duck		6.5
+tomato		3.0
+potatp		2.5
+carrot		2.0
+onion		1.5
+celety		1.0
+corn		1.5
+apple		1.0
+banana		1.5
+orange		2.0
+pear		1.5
